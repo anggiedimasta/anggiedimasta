@@ -1,0 +1,1232 @@
+{
+  "name": "Anggie Putra Dimasta",
+  "title": "Staff Software Engineer",
+  "location": "Jakarta, Indonesia",
+  "email": "anggiedimasta@gmail.com",
+  "phone": "+6282223377257",
+  "links": {
+    "github": "https://github.com/anggiedimasta",
+    "linkedin": "https://www.linkedin.com/in/anggiedimasta/"
+  },
+  "summary": "Staff Engineer focused on high-level system architecture. I set technical standards and build AI-driven internal tools to optimize developer workflows.",
+  "featured": [
+    "intro",
+    "how-i-work",
+    "architecture",
+    "stack-backend",
+    "worklog"
+  ],
+  "chunks": [
+    {
+      "id": "intro",
+      "title": "Who I am",
+      "body": "I'm Anggie Putra Dimasta, a Staff Software Engineer in Jakarta, Indonesia. I'm currently a Platform Engineer Frontend at Lion Parcel, a logistics and courier service. I focus on high-level system architecture, set technical standards, and build AI-driven internal tools to optimize developer workflows. I've been shipping software professionally since 2012 and doing frontend and platform engineering since 2016.",
+      "keywords": [
+        "about",
+        "introduce",
+        "who",
+        "bio",
+        "summary",
+        "profil",
+        "siapa",
+        "nama",
+        "namamu",
+        "name",
+        "location",
+        "lokasi",
+        "jakarta",
+        "domisili",
+        "years",
+        "experience",
+        "tahun",
+        "pengalaman",
+        "lama",
+        "berapa lama",
+        "seniority",
+        "career",
+        "karier",
+        "sejak",
+        "since",
+        "level",
+        "peringkat",
+        "umur",
+        "age"
+      ],
+      "questions": [
+        "Who are you?",
+        "Can you introduce yourself?",
+        "What do you do?",
+        "Siapa Anda?",
+        "Bisa perkenalkan diri singkat?"
+      ]
+    },
+    {
+      "id": "current-role",
+      "title": "Current role at Lion Parcel",
+      "body": "Since June 2025 I've been a Platform Engineer Frontend at Lion Parcel, one of Indonesia's leading logistics and courier services, working on domestic and international parcel delivery at high daily volume. I report to the Principal Engineer and partner with cross-domain Platform Engineers on backend and mobile.",
+      "keywords": [
+        "current",
+        "job",
+        "work",
+        "employer",
+        "company",
+        "lion parcel",
+        "logistics",
+        "present",
+        "sekarang",
+        "kerja",
+        "perusahaan"
+      ],
+      "questions": [
+        "Where do you work now?",
+        "What is your current job?",
+        "Tell me about your current role",
+        "Anda bekerja di mana sekarang?"
+      ]
+    },
+    {
+      "id": "architecture",
+      "title": "System architecture",
+      "body": "I drive high-level system design and conduct in-depth architectural assessments with cross-domain Platform Engineers. A concrete example is mitigating race conditions in high-volume services. At Lion Parcel this is done in close partnership with the Principal Engineer and the Platform Engineers on backend and mobile.",
+      "keywords": [
+        "architecture",
+        "system design",
+        "architect",
+        "assessment",
+        "design review",
+        "race condition",
+        "scalability",
+        "scaling",
+        "principal engineer",
+        "arsitektur",
+        "desain sistem"
+      ],
+      "questions": [
+        "What kind of architecture work do you do?",
+        "How do you assess an architecture?",
+        "Have you dealt with concurrency or race conditions at scale?",
+        "Anda pernah menangani masalah arsitektur apa?"
+      ]
+    },
+    {
+      "id": "ai-devex",
+      "title": "AI-native developer experience",
+      "body": "I catalyzed the two internal projects our engineering AI workflow runs on - an SDLC engine and a documentation-first workspace - and I still maintain both. In practice the maintenance is authoring the specifications and detailing the team builds from. I also run proactive R&D on system design, API architecture, and AI orchestration to keep the stack future-proof and guide engineering decisions.",
+      "keywords": [
+        "ai",
+        "agentic",
+        "devx",
+        "developer experience",
+        "agent",
+        "tooling",
+        "internal tools",
+        "orchestration",
+        "llm",
+        "automation",
+        "workflow",
+        "ai tools",
+        "otomatisasi"
+      ],
+      "questions": [
+        "What AI tooling do you actually use day to day?",
+        "How do you use AI in your engineering workflow?",
+        "Do you build internal tools for developers?",
+        "Anda memakai AI dalam pekerjaan harian seperti apa?"
+      ]
+    },
+    {
+      "id": "sdlc-engine",
+      "title": "The SDLC engine I maintain",
+      "body": "At Lion Parcel I catalyzed this one and still help maintain it — an orchestration layer that turns generic AI coding assistants into domain-expert partners. It ships specialized agents, context-aware commands, and project-specific rules, installed into consuming repositories with a single command. The agent skill set is defined once as a source of truth and symlinked into every supported editor, so a change propagates everywhere instead of being copied per tool.",
+      "keywords": [
+        "sdlc",
+        "engine",
+        "orchestration",
+        "agents",
+        "agentic",
+        "commands",
+        "rules",
+        "editor",
+        "symlink",
+        "single source of truth",
+        "install",
+        "cli",
+        "tooling",
+        "devx",
+        "ai",
+        "developer tooling",
+        "lifecycle",
+        "sdlc engine",
+        "kode",
+        "code",
+        "nulis",
+        "koding"
+      ],
+      "questions": [
+        "What is the biggest thing you've built at work?",
+        "Tell me about the SDLC engine",
+        "You built an internal AI tool? What does it do?",
+        "Apa yang Anda kerjakan di kantor?",
+        "Jelaskan sistem yang Anda bangun untuk tim Anda"
+      ]
+    },
+    {
+      "id": "worklog",
+      "title": "How I actually spend my time",
+      "body": "My leverage as a Staff engineer is mostly in making work buildable before it gets written. I do that systematically - detailing, grooming and breaking requirements down until they are implementation-ready - so the ambiguity surfaces while it is still cheap to fix. \n\nOver the last fifteen months that came to roughly 2,900 story points across 976 tickets and about 2,400 logged hours - most of it specification work, with the features built by the engineers those specs went to. That discipline is the part of my job I am most proud of. A well-shaped ticket is worth more than a fast commit, and the documentation that comes out of it outlives the sprint.",
+      "keywords": [
+        "how i work",
+        "process",
+        "workflow",
+        "methodology",
+        "time",
+        "breakdown",
+        "grooming",
+        "detailing",
+        "refinement",
+        "clarify",
+        "shape",
+        "leverage",
+        "staff",
+        "leadership",
+        "sprint",
+        "commit",
+        "documentation",
+        "cara kerja",
+        "metode kerja",
+        "waktu",
+        "staff engineer",
+        "leveraging",
+        "kualitas kerja",
+        "story point",
+        "story points",
+        "sp",
+        "velocity",
+        "throughput",
+        "delivered",
+        "output",
+        "volume",
+        " quantifiable",
+        "delivery",
+        "impact",
+        "numbers"
+      ],
+      "questions": [
+        "How do you work day to day?",
+        "What does a Staff engineer actually do all day?",
+        "Where does your time go?",
+        "Bagaimana cara Anda bekerja sehari-hari?",
+        "Apa perbedaan pekerjaan Staff Engineer dengan Senior Engineer?",
+        "How much have you delivered?",
+        "How many story points have you delivered?",
+        "What is your typical velocity?",
+        "Berapa SP yang lo deliver?",
+        "Berapa yang lo kerjakan selama ini?"
+      ]
+    },
+    {
+      "id": "docs-as-engineering",
+      "title": "Docs as engineering infrastructure",
+      "body": "I catalyzed this one too and still look after it: a documentation-first workspace that bridges Jira epics and PRDs with technical implementation. Its core is a living record of: service ownership, API contracts, database schemas, domain terminology, and UI-to-API mappings — kept current as a source of truth and updated as the services change. \n\nOn top of that sits a command suite that turns requirements into implementation-ready artifacts, with guards that keep the documentation and the tickets in sync. I co-author our Technical Requirements Document and Functional Specification Document frameworks to set core technical standards and make handover seamless.",
+      "keywords": [
+        "documentation",
+        "knowledge base",
+        "jira",
+        "prd",
+        "epic",
+        "spec",
+        "specification",
+        "trd",
+        "fsd",
+        "api contract",
+        "schema",
+        "domain",
+        "ownership",
+        "ui-to-api",
+        "source of truth",
+        "guard",
+        "handover",
+        "standards",
+        "dokumentasi",
+        "spesifikasi",
+        "dokumen"
+      ],
+      "questions": [
+        "How do you handle documentation on a large codebase?",
+        "Do you write specs or technical documents?",
+        "How do you keep architecture docs from going stale?",
+        "Bagaimana cara Anda menangani dokumentasi teknis?"
+      ]
+    },
+    {
+      "id": "clean-architecture",
+      "title": "Clean Architecture in Vue",
+      "body": "Our internal content management platform follows Clean Architecture — Domain, Data, and App layers — deliberately adapted for Vue and TypeScript. The App layer holds dependency injection, repositories, and routing with permission logic; Data holds payload contracts and mappers between API shapes and domain types; Domain holds entities and use cases. I own 48 pull requests in that codebase. The lesson is that a layered architecture in a frontend app is about keeping the UI from knowing where data comes from, not about ceremony.",
+      "keywords": [
+        "clean architecture",
+        "architecture",
+        "layered",
+        "domain",
+        "data",
+        "app layer",
+        "usecase",
+        "dependency injection",
+        "repository",
+        "mapper",
+        "contract",
+        "entity",
+        "vue",
+        "typescript",
+        "cms",
+        "scalable",
+        "arsitektur",
+        "layer",
+        "pola"
+      ],
+      "questions": [
+        "What frontend architecture patterns have you used?",
+        "Do you apply Clean Architecture to frontend?",
+        "How do you structure a large Vue application?",
+        "Anda menerapkan Clean Architecture di frontend?",
+        "Pola arsitektur frontend apa yang Anda gunakan?"
+      ]
+    },
+    {
+      "id": "standards",
+      "title": "Technical standards, TRD/FSD, and handover",
+      "body": "I establish core technical standards by co-authoring the Technical Requirements Document (TRD) and Functional Specification Document (FSD) frameworks, so architectural directives are clear and handover to the Lead Engineer is seamless.",
+      "keywords": [
+        "standards",
+        "trd",
+        "fsd",
+        "specification",
+        "technical requirements document",
+        "handover",
+        "lead engineer",
+        "guideline",
+        "best practice",
+        "dokumen",
+        "standar"
+      ],
+      "questions": [
+        "How do you set technical standards for a team?",
+        "What is your experience with TRD or FSD documentation?",
+        "Do you write technical documentation?",
+        "Bagaimana cara Anda menetapkan standar teknis?"
+      ]
+    },
+    {
+      "id": "koltiva",
+      "title": "Koltiva — Frontend Engineer",
+      "body": "From December 2021 to February 2025 I was a Frontend Engineer at Koltiva, an agritech company providing end-to-end supply chain solutions for traceability, sustainability, and farmer engagement. I built and maintained 5 web applications across several product lines - payments, traceability, farm retail, and recruitment - with Vue.js, Nuxt, TypeScript, Pinia, and TailwindCSS, and built and maintained 3 UI component libraries. I contributed to the shared Nuxt starter the team bootstrapped new projects from - it exists to scaffold microfrontends, so a good part of it is about keeping independently deployed apps sharing dependencies cleanly. I worked with backend and UI/UX designers to ship features, applying modular and scalable frontend architecture.",
+      "keywords": [
+        "koltiva",
+        "agritech",
+        "agriculture",
+        "supply chain",
+        "vue",
+        "nuxt",
+        "component library",
+        "tailwind",
+        "pinia",
+        "typescript",
+        "agrikultur",
+        "product lines",
+        "payments",
+        "payment",
+        "traceability",
+        "farm retail",
+        "recruitment",
+        "shared starter",
+        "nuxt starter",
+        "multiple products",
+        "multiline",
+        "monorepo",
+        "microfrontend",
+        "micro-frontends",
+        "micro frontend",
+        "module federation",
+        "federation",
+        "independent deployment",
+        "shared dependencies",
+        "starter",
+        "scaffold"
+      ],
+      "questions": [
+        "What did you do at Koltiva?",
+        "How many applications did you build at Koltiva?",
+        "Tell me about your work at an agritech company",
+        "Apa yang Anda kerjakan di Koltiva?",
+        "How many different products did you work on?",
+        "Which product lines did you build frontends for?",
+        "Kamu pernah kerja di berapa produk?",
+        "Produk apa saja yang pernah lo kerjakan?",
+        "Apakah lo pernah pakai atau bikin shared starter?",
+        "Do you know microfrontends?",
+        "Have you worked with module federation?",
+        "Kamu pernah pakai microfrontend?"
+      ]
+    },
+    {
+      "id": "jagi",
+      "title": "Jagi.id — Frontend Engineer",
+      "body": "From September 2020 to November 2021 I was a Frontend Engineer at Jagi.id in Bandung, a platform helping businesses target social media ads and optimize funnels from ads to forms to purchases. I integrated real-time data over WebSocket with backend teams, refactored existing code for performance, best practice, and SEO to reach 90+ Chrome Lighthouse scores, and implemented mobile-first responsive design for cross-device compatibility.",
+      "keywords": [
+        "jagi",
+        "websocket",
+        "realtime",
+        "real-time",
+        "performance",
+        "lighthouse",
+        "seo",
+        "refactor",
+        "responsive",
+        "mobile first",
+        "ads",
+        "funnel",
+        "bandung"
+      ],
+      "questions": [
+        "What did you do at Jagi.id?",
+        "Have you worked with WebSockets or real-time data?",
+        "Tell me about a performance optimization you did",
+        "Anda pernah melakukan optimasi performa website?"
+      ]
+    },
+    {
+      "id": "freelance",
+      "title": "Freelance fullstack developer",
+      "body": "From August 2018 to August 2020 I worked freelance in Malang as a fullstack web developer. I designed and developed full-stack web applications with Vue.js, Express.js, and Firestore, implemented authentication and authorization systems for security and user management, and managed deployments end to end.",
+      "keywords": [
+        "freelance",
+        "fullstack",
+        "full-stack",
+        "express",
+        "firestore",
+        "authentication",
+        "authorization",
+        "deployment",
+        "malang",
+        "client",
+        "freelancer"
+      ],
+      "questions": [
+        "Have you worked as a freelancer?",
+        "Do you have backend experience?",
+        "Tell me about your freelance work",
+        "Anda pernah bekerja secara freelance?"
+      ]
+    },
+    {
+      "id": "jakamedia",
+      "title": "Jakamedia — Rakoon POS",
+      "body": "From May 2016 to July 2018 I was a Frontend Engineer at Jakamedia, a bootstrapped company whose product Rakoon POS was built after completing a startup bootcamp. It's a web-based point-of-sale system, and I helped develop and launch the SaaS platform from scratch with a team of five. I optimized front-end performance for faster load times, smoothed site interactions with GSAP and Three.js, and managed state with Vuex.",
+      "keywords": [
+        "jakamedia",
+        "rakoon",
+        "pos",
+        "point of sale",
+        "saas",
+        "startup",
+        "bootcamp",
+        "three.js",
+        "gsap",
+        "animation",
+        "vuex",
+        "webgl",
+        "zero to one"
+      ],
+      "questions": [
+        "Tell me about Rakoon POS",
+        "Have you built a product from scratch?",
+        "Do you have 3D or animation experience?",
+        "Anda pernah membangun produk dari nol?"
+      ]
+    },
+    {
+      "id": "early-career",
+      "title": "Where I started",
+      "body": "I started in web design at TMint Creative in 2012, building site layouts and themes for WordPress, after a first stint at UIN Maulana Malik Ibrahim Malang developing a digital library for the Sharia faculty together with an integrated user management system in PHP. I have been shipping software professionally since 2012.",
+      "keywords": [
+        "early career",
+        "first job",
+        "php",
+        "wordpress",
+        "u i n",
+        "uin malang",
+        "sharia",
+        "digital library",
+        "beginner",
+        "pemula",
+        "lama"
+      ],
+      "questions": [
+        "How did you get started in software?",
+        "Do you know PHP?",
+        "What was your first web project?",
+        "Kapan Anda mulai belajar pemrograman?"
+      ]
+    },
+    {
+      "id": "stack-frontend",
+      "title": "Frontend stack",
+      "body": "My frontend stack spans Vue.js, Nuxt, Pinia, Vuex, TailwindCSS, SvelteKit, Next.js, Astro, Astro SSG, and TanStack Start, plus React. I've built design-system component libraries, Storybook stories, GSAP and Three.js animation work, and PWA and offline-sync frontends.",
+      "keywords": [
+        "frontend",
+        "vue",
+        "nuxt",
+        "svelte",
+        "sveltekit",
+        "react",
+        "next.js",
+        "nextjs",
+        "astro",
+        "tanstack",
+        "pinia",
+        "vuex",
+        "tailwind",
+        "storybook",
+        "design system",
+        "pwa",
+        "javascript",
+        "typescript",
+        "website",
+        "situs",
+        "web",
+        "microfrontend",
+        "micro-frontends",
+        "micro frontend",
+        "module federation",
+        "federation",
+        "independent deployment",
+        "shared dependencies",
+        "starter",
+        "scaffold"
+      ],
+      "questions": [
+        "What's your main frontend stack?",
+        "Are you a Vue or React developer?",
+        "Do you know Svelte?",
+        "Framework apa yang paling Anda kuasai?",
+        "Frontend stack Anda apa?",
+        "Do you know microfrontends?",
+        "Have you worked with module federation?",
+        "Kamu pernah pakai microfrontend?"
+      ]
+    },
+    {
+      "id": "stack-backend",
+      "title": "Backend and API work",
+      "body": "My production backend work comes from my own projects: Go Fiber, FastAPI, Express, tRPC, PHP, and background workers using the outbox pattern. Most of those were exploratory - built to find out whether an approach held up, which is a different thing from running a business on it. The exception is Hesoyam, which I use every day, running on a small service mesh with PostgreSQL row-level security.\n\nAt Lion Parcel I own the frontend and the internal tooling, and integrate against the Go services the platform team runs.",
+      "keywords": [
+        "backend",
+        "server",
+        "api",
+        "rest",
+        "go",
+        "golang",
+        "fiber",
+        "fastapi",
+        "python",
+        "express",
+        "trpc",
+        "php",
+        "microservice",
+        "worker",
+        "outbox",
+        "microservices",
+        "integration",
+        "belakang",
+        "fullstack",
+        "full-stack",
+        "scale",
+        "nyata"
+      ],
+      "questions": [
+        "Do you do backend work or only frontend?",
+        "Do you know Go or Python?",
+        "Have you built an API?",
+        "Seberapa banyak pengalaman backend lo?",
+        "Kamu bisa backend?",
+        "Kamu ngerjain API atau frontend doang?"
+      ]
+    },
+    {
+      "id": "how-i-work",
+      "title": "How I work",
+      "body": "At work I work as a catalyst: I got our SDLC engine and documentation workspace off the ground, and I still maintain them, which in practice means writing the specifications and detailing that a team of engineers then builds from. Where a good pattern already exists I use it, and where none fits I design one. I get productive on a new codebase in days, which is how I keep moving fast when the stack changes under me.",
+      "keywords": [
+        "strength",
+        "how i work",
+        "approach",
+        "adapt",
+        "adaptation",
+        "learn",
+        "learning",
+        "fast",
+        "quick",
+        "brown box",
+        "proven",
+        "pattern",
+        "pola",
+        "existing",
+        "established",
+        "evidence",
+        "iterate",
+        "honest",
+        "jujur",
+        "strengths",
+        "cepat",
+        "belajar",
+        "cepat adaptasi",
+        "cara belajar",
+        "gaya kerja",
+        "metode",
+        "design",
+        "designed",
+        "original",
+        "invent",
+        "invention",
+        "create"
+      ],
+      "questions": [
+        "What have you built from scratch?",
+        "Are you an architect or an implementer?",
+        "Do you invent or do you follow existing patterns?",
+        "How fast do you learn a new stack?",
+        "What is your biggest strength?",
+        "How do you handle an unfamiliar codebase?",
+        "Give me an example of a system you designed yourself",
+        "Apa yang lo rancang sendiri?",
+        "Lo arsitek atau implementer?",
+        "Lo ngarang dari nol atau ikut pattern yang ada?",
+        "Seberapa cepat lo belajar tech baru?",
+        "Apa strengths lo?",
+        "Gimana lo faced unfamiliar codebase?",
+        "What do you think you're best at?",
+        "What part of the job are you strongest in?"
+      ]
+    },
+    {
+      "id": "stack-native",
+      "title": "Native macOS development",
+      "body": "I build native macOS apps with Swift and SwiftUI. My macOS menu bar network utility does continuous latency and WiFi monitoring, persists history in SQLite, renders dynamic charts, and raises automated alerts without compromising OS performance.",
+      "keywords": [
+        "swift",
+        "swiftui",
+        "macos",
+        "native",
+        "menubar",
+        "menu bar",
+        "desktop",
+        "sqlite",
+        "apple",
+        "app",
+        "hp",
+        "handphone",
+        "ponsel",
+        "mobile app",
+        "mobile"
+      ],
+      "questions": [
+        "Do you write native apps?",
+        "Do you know Swift?",
+        "Have you shipped a macOS app?",
+        "Apakah Anda bisa membuat aplikasi native?"
+      ]
+    },
+    {
+      "id": "stack-data",
+      "title": "Databases and data engineering",
+      "body": "I've worked extensively with PostgreSQL — including Row Level Security policies, PostGIS for geospatial queries, and Drizzle ORM — plus Supabase, SQLite, and Firestore. I also built geospatial data pipelines over OpenStreetMap and GTFS feeds, and set up vector embeddings and semantic chunking for retrieval.",
+      "keywords": [
+        "database",
+        "postgres",
+        "postgresql",
+        "rls",
+        "row level security",
+        "supabase",
+        "postgis",
+        "drizzle",
+        "orm",
+        "sqlite",
+        "firestore",
+        "schema",
+        "indexing",
+        "embedding",
+        "chunking",
+        "basis data",
+        "database"
+      ],
+      "questions": [
+        "What database experience do you have?",
+        "Do you know PostgreSQL and Supabase?",
+        "Have you worked with geospatial data?",
+        "Apakah Anda memahami database?",
+        "Database apa yang paling Anda gunakan?"
+      ]
+    },
+    {
+      "id": "stack-infra",
+      "title": "Infrastructure and architecture patterns",
+      "body": "I ship with Docker, Railway, Bun, and monorepo layouts, and I've architected microservices with healthchecked API gateways, private service-to-service networking, scheduled cron jobs, PWA deployment, and outbox-based background processing. I've also set up Model Context Protocol servers and agent tooling.",
+      "keywords": [
+        "infrastructure",
+        "devops",
+        "docker",
+        "railway",
+        "bun",
+        "monorepo",
+        "microservices",
+        "cron",
+        "deployment",
+        "ci",
+        "cd",
+        "networking",
+        "gateway",
+        "observability",
+        "infra",
+        "server",
+        "deploy",
+        "release",
+        "ship"
+      ],
+      "questions": [
+        "How do you deploy things?",
+        "Do you work with DevOps or infrastructure?",
+        "Have you worked with microservices?",
+        "Apakah Anda menangani deployment sendiri?",
+        "Apakah Anda menggunakan Docker?"
+      ]
+    },
+    {
+      "id": "ai-skills",
+      "title": "AI and ML skills",
+      "body": "My depth is in agentic developer tooling - the AI workflow my org runs on, Model Context Protocol servers, AI orchestration, and the engineering standards around them. Elsewhere I have built: a codebase indexer using semantic chunking and vector embeddings, and a machine learning system that predicts package delivery failures before courier dispatch.",
+      "keywords": [
+        "ai",
+        "ml",
+        "machine learning",
+        "rag",
+        "retrieval",
+        "embedding",
+        "mcp",
+        "model context protocol",
+        "agent",
+        "gemini",
+        "llm",
+        "vector",
+        "chunking",
+        "orchestration",
+        "prediction"
+      ],
+      "questions": [
+        "What AI or ML projects have you built?",
+        "Do you know RAG?",
+        "What is Model Context Protocol and have you used it?",
+        "Apakah Anda bisa menangani machine learning?",
+        "Pernah membangun sistem AI atau machine learning?"
+      ]
+    },
+    {
+      "id": "design-systems",
+      "title": "Design systems and libraries",
+      "body": "I've built and maintained 3 UI component libraries inside a company, and separately engineered a scalable monorepo-based UI component library with strict design system tokens, accessible components, and automated publishing workflows. Storybook is part of my regular frontend tooling.",
+      "keywords": [
+        "design system",
+        "component library",
+        "storybook",
+        "accessibility",
+        "a11y",
+        "tokens",
+        "monorepo",
+        "ui",
+        "frontend tooling",
+        "publishing",
+        "komponen"
+      ],
+      "questions": [
+        "Have you built a design system?",
+        "Do you use Storybook?",
+        "Tell me about your component library work",
+        "Anda pernah membangun design system?"
+      ]
+    },
+    {
+      "id": "project-15menit",
+      "title": "15menit — geospatial transit accessibility",
+      "body": "15menit is a geospatial web application for comparing multi-modal commutes and real-time isochrone mapping across Indonesia. I built the data pipeline integrating OpenStreetMap and GTFS data, powered by FastAPI, PostGIS, and the Valhalla routing engine, paired with a TanStack Start frontend. It is unfinished, so treat the above as work in progress rather than a shipped product.",
+      "keywords": [
+        "15menit",
+        "geospatial",
+        "isochrone",
+        "transit",
+        "commute",
+        "openstreetmap",
+        "osm",
+        "gtfs",
+        "valhalla",
+        "routing",
+        "map",
+        "maps",
+        "transportasi",
+        "peta",
+        "fastapi",
+        "postgis",
+        "tanstack",
+        "unfinished",
+        "work in progress",
+        "wip",
+        "not finished"
+      ],
+      "questions": [
+        "What is 15menit?",
+        "How do you work with geospatial or routing data?",
+        "Have you worked with Valhalla or OpenStreetMap?",
+        "Jelaskan proyek 15menit",
+        "Anda pernah bekerja dengan data geospatial?",
+        "Is 15menit finished?",
+        "Apakah 15menit sudah selesai?"
+      ]
+    },
+    {
+      "id": "project-akasha",
+      "title": "Akasha — AI-native codebase indexing",
+      "body": "Akasha is a federated search and intelligent codebase indexing system that powers AI-assisted development workflows. I implemented semantic chunking, multi-repository search, and vector embeddings using the Model Context Protocol and Gemini, to provide real-time context retrieval for LLMs. It is unfinished, so treat the above as work in progress rather than a shipped product.",
+      "keywords": [
+        "akasha",
+        "codebase",
+        "indexing",
+        "federated search",
+        "semantic",
+        "chunking",
+        "multi-repo",
+        "embeddings",
+        "mcp",
+        "gemini",
+        "context",
+        "llm",
+        "rag",
+        "search",
+        "unfinished",
+        "work in progress",
+        "wip",
+        "not finished"
+      ],
+      "questions": [
+        "What does Akasha do?",
+        "How do you make an LLM aware of a large codebase?",
+        "Tell me about your RAG project",
+        "Jelaskan proyek Akasha",
+        "Is Akasha finished?",
+        "Apakah Akasha sudah selesai?"
+      ]
+    },
+    {
+      "id": "project-hesoyam",
+      "title": "Hesoyam — personal wealth tracker",
+      "body": "Hesoyam is a personal finance tracking application built with SvelteKit and Supabase, a PWA with a service mesh backend: gateway, web, ledger, ML, and scheduled jobs. I engineered secure authentication and database interaction using PostgreSQL Row Level Security, with asset tracking, budget monitoring, credit card management, and automated recurring transaction scheduling.",
+      "keywords": [
+        "hesoyam",
+        "finance",
+        "fintech",
+        "money",
+        "wealth",
+        "budget",
+        "expense",
+        "sveltekit",
+        "supabase",
+        "rls",
+        "pwa",
+        "ledger",
+        "double-entry",
+        "keuangan",
+        "uang"
+      ],
+      "questions": [
+        "What is Hesoyam?",
+        "Have you built a fintech product?",
+        "Tell me about your finance app",
+        "Jelaskan proyek Hesoyam"
+      ]
+    },
+    {
+      "id": "project-tikum",
+      "title": "Tikum — event management platform",
+      "body": "Tikum is a full-stack event management platform using SvelteKit and Supabase. I designed a secure database architecture with PostgreSQL Row Level Security policies, bulk guest-list CSV import workflows, and a role-based staff administrative interface. It is unfinished, so treat the above as work in progress rather than a shipped product.",
+      "keywords": [
+        "tikum",
+        "event",
+        "events",
+        "event management",
+        "sveltekit",
+        "supabase",
+        "rls",
+        "csv",
+        "import",
+        "role based",
+        "admin",
+        "acara",
+        "event",
+        "unfinished",
+        "work in progress",
+        "wip",
+        "not finished"
+      ],
+      "questions": [
+        "What is Tikum?",
+        "Tell me about your event management app",
+        "Jelaskan proyek Tikum",
+        "Is Tikum finished?",
+        "Apakah Tikum sudah selesai?"
+      ]
+    },
+    {
+      "id": "jakago-landing",
+      "title": "JAKAGO — marketing site",
+      "body": "I built and shipped the JAKAGO marketing site as a Next.js app at version 1.0.0, with proper SEO rather than afterthought metadata. Most of the code is mine. The part I am happiest with is the release process: conventional commits enforced through commitizen, with a changelog generated straight into Jira so the ticket history and the release notes stay the same thing.",
+      "keywords": [
+        "jakago",
+        "agency",
+        "marketing site",
+        "landing page",
+        "landingpage",
+        "next.js",
+        "nextjs",
+        "react",
+        "next-seo",
+        "seo",
+        "commitizen",
+        "conventional commits",
+        "changelog",
+        "jira",
+        "release process",
+        "dx",
+        "developer experience",
+        "shipped",
+        "released",
+        "1.0"
+      ],
+      "questions": [
+        "What is JAKAGO?",
+        "Tell me about the landing page you shipped",
+        "Do you do Next.js?",
+        "How do you handle release notes and changelogs?",
+        "What is JAKAGO?",
+        "Jelaskan project JAKAGO",
+        "Kamu pernah pakai Next.js?",
+        "Bagaimana cara lo handle changelog sama Jira?"
+      ]
+    },
+    {
+      "id": "project-pepepe",
+      "title": "Pepepe — macOS network analytics",
+      "body": "Pepepe is a native macOS menu bar utility in Swift and SwiftUI for continuous network latency and WiFi monitoring. I implemented efficient local persistence with SQLite to support historical reporting, dynamic chart visualizations, and automated system alerts, without compromising OS performance.",
+      "keywords": [
+        "pepepe",
+        "macos",
+        "menubar",
+        "network",
+        "latency",
+        "ping",
+        "wifi",
+        "monitor",
+        "chart",
+        "alert",
+        "sqlite",
+        "swift",
+        "swiftui"
+      ],
+      "questions": [
+        "What is Pepepe?",
+        "Tell me about your macOS app",
+        "Jelaskan proyek Pepepe"
+      ]
+    },
+    {
+      "id": "project-bb",
+      "title": "bb — agentic IDE and software factory",
+      "body": "I customized an open-source AI-native IDE fork to optimize developer workflows. I built core extensions including automated branch syncing, an integrated taskboard, and custom agent tools to streamline multi-surface operations.",
+      "keywords": [
+        "bb",
+        "ide",
+        "editor",
+        "agentic",
+        "software factory",
+        "extension",
+        "branch",
+        "sync",
+        "taskboard",
+        "devtools",
+        "ai",
+        "fork"
+      ],
+      "questions": [
+        "What is bb?",
+        "Have you built developer tooling or an IDE extension?",
+        "Tell me about the agentic IDE work"
+      ]
+    },
+    {
+      "id": "project-cassandra",
+      "title": "Cassandra — delivery failure prediction",
+      "body": "Cassandra is an ML-powered system that predicts which packages will fail delivery before courier dispatch, enabling cost reduction, efficiency improvements, and data-driven dispatch decisions.",
+      "keywords": [
+        "cassandra",
+        "ml",
+        "machine learning",
+        "prediction",
+        "delivery",
+        "courier",
+        "logistics",
+        "dispatch",
+        "predictive",
+        "logistik",
+        "prediksi"
+      ],
+      "questions": [
+        "What does Cassandra predict?",
+        "Tell me about your machine learning project",
+        "Have you shipped an ML model to production?",
+        "Jelaskan proyek Cassandra"
+      ]
+    },
+    {
+      "id": "project-ojir",
+      "title": "Ojir — digital wallet platform",
+      "body": "Ojir is a modern end-to-end digital wallet and personal finance application. I used Next.js, tRPC, Drizzle ORM, and PostgreSQL to handle complex financial state management, secure transaction logging, and scalable database architecture.",
+      "keywords": [
+        "ojir",
+        "wallet",
+        "digital wallet",
+        "payment",
+        "finance",
+        "next.js",
+        "trpc",
+        "drizzle",
+        "postgresql",
+        "transaction",
+        "uang",
+        "dompet"
+      ],
+      "questions": [
+        "What is Ojir?",
+        "Have you built a digital wallet?",
+        "Jelaskan proyek Ojir"
+      ]
+    },
+    {
+      "id": "project-mcp-menubar",
+      "title": "MCP Menubar",
+      "body": "MCP Menubar is a standalone Model Context Protocol menubar application for local AI-native engineering. It gives system-level access to context protocols, acting as a bridge between local development environments and AI agents.",
+      "keywords": [
+        "mcp",
+        "menubar",
+        "model context protocol",
+        "context protocol",
+        "agent",
+        "ai",
+        "bridge",
+        "local",
+        "developer tool",
+        "tooling"
+      ],
+      "questions": [
+        "What does your MCP tool do?",
+        "How do you work with MCP?",
+        "Jelaskan MCP Menubar"
+      ]
+    },
+    {
+      "id": "project-agentic-starter",
+      "title": "Agentic Dev Starter",
+      "body": "Agentic Dev Starter is a foundational boilerplate and automation toolkit for initializing AI-agentic development environments. It standardizes setup for AI-native workflows so new engineering initiatives bootstrap quickly with consistent code quality.",
+      "keywords": [
+        "agentic",
+        "starter",
+        "boilerplate",
+        "template",
+        "scaffold",
+        "ai",
+        "workflow",
+        "standardize",
+        "setup",
+        "automation",
+        "tooling"
+      ],
+      "questions": [
+        "What is Agentic Dev Starter?",
+        "How do you set up AI-assisted projects?",
+        "Jelaskan Agentic Dev Starter"
+      ]
+    },
+    {
+      "id": "project-earlier",
+      "title": "Earlier projects (2015-2017)",
+      "body": "Earlier projects include Misi.io, a text-based NLP personal assistant; Ketik.in, a collaborative writing platform; the Geospatial Information System of Bondowoso Regency for Bappeda; Thematic Neighborhoods, a showcase for Malang; a veterinary tech-solutions product called Cobra; and Cure, a mobile public health service locator.",
+      "keywords": [
+        "early",
+        "old",
+        "first",
+        "2015",
+        "2016",
+        "2017",
+        "rakoon",
+        "misi",
+        "ketik",
+        "nlp",
+        "bondowoso",
+        "gis",
+        "malang",
+        "dental",
+        "cobra",
+        "cure",
+        "imageboard",
+        "dota",
+        "epik",
+        "proyek lama",
+        "proyek awal"
+      ],
+      "questions": [
+        "What were your early projects?",
+        "What did you build when you started out?",
+        "Ceritakan proyek paling awal Anda",
+        "Apa proyek pertama Anda?"
+      ]
+    },
+    {
+      "id": "education",
+      "title": "Education",
+      "body": "I studied Information Systems at Universitas Brawijaya in Malang from 2012 to 2019. Before university I attended SMK Negeri 4 Malang for Computer Software Engineering, graduating in 2012.",
+      "keywords": [
+        "education",
+        "university",
+        "college",
+        "degree",
+        "school",
+        "kuliah",
+        "universitas",
+        "smp",
+        "smk",
+        "brawijaya",
+        "malang",
+        "information systems",
+        "belajar",
+        "pendidikan"
+      ],
+      "questions": [
+        "Where did you study?",
+        "What did you study in university?",
+        "Do you have a degree?",
+        "Anda kuliah di mana?",
+        "Jurusan apa?"
+      ]
+    },
+    {
+      "id": "certifications",
+      "title": "Certifications",
+      "body": "I hold certifications in Responsive Web Design from the Java Education Network Indonesia, JavaScript Algorithms and Data Structures, Claude 101, and Claude code 101.",
+      "keywords": [
+        "certification",
+        "certificate",
+        "certified",
+        "sertifikat",
+        "responsive web design",
+        "javascript algorithms",
+        "claude",
+        "training",
+        "course"
+      ],
+      "questions": [
+        "Do you have any certifications?",
+        "What courses or certificates do you have?",
+        "Ada sertifikat?"
+      ]
+    },
+    {
+      "id": "languages",
+      "title": "Languages",
+      "body": "Bahasa Indonesia is my native language. English is at a professional working proficiency.",
+      "keywords": [
+        "language",
+        "bahasa",
+        "english",
+        "inggris",
+        "indonesia",
+        "speak",
+        "language proficiency",
+        "bilingual"
+      ],
+      "questions": [
+        "What languages do you speak?",
+        "Can you work in English?",
+        "Bahasa apa yang bisa Anda gunakan?"
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Contact",
+      "body": "The best way to reach me is email — I'm on WhatsApp or phone at +62 822 2337 7257 if that's faster, and I'm based in Jakarta, Indonesia.",
+      "keywords": [
+        "contact",
+        "email",
+        "reach",
+        "hire",
+        "get in touch",
+        "phone",
+        "whatsapp",
+        "call",
+        "number",
+        "available",
+        "availability",
+        "tersedia",
+        "kapan",
+        "when",
+        "notice",
+        "start",
+        "bergabung",
+        "join",
+        "kontak",
+        "hubungi",
+        "hp",
+        "telepon",
+        "hire",
+        "recruiter",
+        "rekrutmen",
+        "offer",
+        "interview"
+      ],
+      "questions": [
+        "How can I contact you?",
+        "Are you available for work?",
+        "What's your email?",
+        "What's your phone number?",
+        "Bagaimana cara menghubungi Anda?",
+        "Berapa nomor HP Anda?",
+        "Apakah Anda bisa direkrut?"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "chunk": "project-hesoyam",
+      "name": "Hesoyam",
+      "note": "personal finance PWA"
+    },
+    {
+      "chunk": "design-systems",
+      "name": "UI",
+      "note": "monorepo component library"
+    },
+    {
+      "chunk": "project-agentic-starter",
+      "name": "Agentic Dev Starter",
+      "note": "AI-native project scaffolding"
+    },
+    {
+      "chunk": "project-pepepe",
+      "name": "Pepepe",
+      "note": "native macOS menu bar app"
+    }
+  ]
+}
